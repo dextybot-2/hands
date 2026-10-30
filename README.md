@@ -14,7 +14,7 @@ Open the printed URL and allow camera access. `/?demo` drives the figure with a 
 
 ## Deploy to GitHub Pages
 
-The included GitHub Actions workflow builds and deploys the site when code is pushed to the `main` branch. In the repository settings, set **Pages > Build and deployment > Source** to **GitHub Actions**. The first successful workflow run publishes the site at `https://<owner>.github.io/<repository>/`.
+The included GitHub Actions workflow builds and deploys the site when code is pushed to the `main` branch, and enables GitHub Pages if needed. The first successful workflow run publishes the site at `https://<owner>.github.io/<repository>/`.
 
 ## Controls
 
